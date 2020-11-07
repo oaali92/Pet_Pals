@@ -1,5 +1,5 @@
 # import necessary libraries
-from .models import create_classes
+from models import create_classes
 import os
 from flask import (
     Flask,
